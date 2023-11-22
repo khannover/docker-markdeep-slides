@@ -40,7 +40,7 @@ Then simply...
 
 Then simply...
 
-1. **run**:  bash build_image.sh`
+1. **run**:  `bash build_image.sh`
 2. **run**: `bash run.sh`
 3. **open** it in your browser on port 8081, and
 4. **start watching your slides**. Easy too!
