@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TAG=markdeep-slides
+. .env
 
 #git pull #optional
 docker build -t $TAG .
