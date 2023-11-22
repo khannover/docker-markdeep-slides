@@ -34,7 +34,7 @@ Then simply...
 2. **open** it in your text editor and browser of choice, and
 3. **start building your slides**. Easy!
 
-#### Additional setup for Docker
+#### Additional and optional setup for Docker
 
 Do steps 1-3 from above. Then simply...
 
