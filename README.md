@@ -34,11 +34,9 @@ Then simply...
 2. **open** it in your text editor and browser of choice, and
 3. **start building your slides**. Easy!
 
-### Setup with Docker
+#### Additional setup for Docker
 
-#### 📦 Clone or fork this repository or [download a ZIP](https://github.com/khannover/docker-markdeep-slides/archive/master.zip).
-
-Then simply...
+Do steps 1-3 from above. Then simply...
 
 1. **run**:  `bash build_image.sh`
 2. **run**: `bash run.sh`
